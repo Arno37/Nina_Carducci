@@ -86,14 +86,17 @@ body {
   font-weight: 800;
   font-style: italic;
   width: 60%;
+  height: 20%;
 }
 #about-me p {
   width: 80%;
+  height: 20%;
   font-size: 14px;
 }
 
 #gallery {
   min-height: 100vh;
+  min-width: 100vh;
 }
 .title {
   text-align: center;
@@ -143,6 +146,7 @@ body {
   font-family: "Spectral";
   font-style: italic;
   width: 70%;
+  height: 30%;
   margin: auto;
   padding-block: 3em;
 }
@@ -182,7 +186,6 @@ body {
 .service {
   background-color: white;
   max-width: 390px;
-  width: 30%;
   height: 337px;
   padding: 1em;
   display: flex;
@@ -219,6 +222,7 @@ form {
   display: flex;
   flex-direction: column;
   width: 70%;
+  height: 100%;
   align-items: flex-start;
 }
 
@@ -231,10 +235,10 @@ form input {
 }
 
 form textarea {
-  width: 100%;
+  width: 549px;
   background-color: transparent;
   border: solid 1px;
-  height: 5em;
+  height: 66px;
   line-height: 2.5em;
   font-size: 1.2em;
   margin-bottom: 20px;
