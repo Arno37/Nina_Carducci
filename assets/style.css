@@ -74,14 +74,11 @@ body {
   flex: 2;
 }
 .about-me__title {
-  margin-top: 1em;
-  margin-bottom: 60px;
-  font-size: 30px;
+  margin-bottom: 45px;
 }
 .about-me__introduction {
   font-family: "Spectral";
   font-weight: 500;
-  font-style: italic;
 }
 #about-me p {
   font-size: 14px;
