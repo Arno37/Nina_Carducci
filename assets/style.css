@@ -79,6 +79,8 @@ body {
 .about-me__introduction {
   font-family: "Spectral";
   font-weight: 500;
+  font-size: larger;
+  font-style: italic;
 }
 #about-me p {
   font-size: 14px;
