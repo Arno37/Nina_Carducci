@@ -217,6 +217,7 @@
                     </div>
                 </div>
             </div>`);
+            
     },
     showItemTags(gallery, position, tags) {
       var tagItems =
