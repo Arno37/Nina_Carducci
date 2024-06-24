@@ -42,5 +42,5 @@ Le site peut être consulté à l'adresse suivante : [Nina Carducci](https://arn
 Un rapport détaillé est produit, présentant toutes les actions menées et leur impact sur les performances et le SEO du site.
 
 ## Capture d'écran
-[![Image d'exemple](assets/images/arno37.github.io_nina-carducci_(iPad%20Pro)%20(1).png)](assets/images/arno37.github.io_nina-carducci_(iPad%20Pro)%20(1).png)
+(assets/images/arno37.github.io_nina-carducci_(iPad%20Pro)%20(1).png)
 
