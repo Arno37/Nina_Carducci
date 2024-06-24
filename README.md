@@ -13,7 +13,7 @@ Date: mars 2024
 
 ## Capture d'écran
 
-![Capture d'écran du site](https://arno37.github.io/nina-carducci/photo.png)
+Le site peut être consulté à l'adresse suivante : [Nina Carducci](https://arno37.github.io/nina-carducci/)
 
 ## Détails des Actions
 
