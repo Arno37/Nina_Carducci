@@ -43,4 +43,4 @@ Un rapport détaillé est produit, présentant toutes les actions menées et leu
 
 ## Capture d'écran
 
-![Capture d'écran du projet](https://arno37.github.io/nina-carducci/photo.png)
+![Capture d'écran du projet](assets/images/arno37.github.io_nina-carducci_(iPad Pro) (1).png)
