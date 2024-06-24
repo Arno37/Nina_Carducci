@@ -11,7 +11,7 @@ Date: mars 2024
 - Faire les modifications liées à l’accessibilité du site
 - Produire un rapport d’optimisation présentant toutes vos actions et leur impact
 
-## Capture d'écran
+## Accès au Site
 
 Le site peut être consulté à l'adresse suivante : [Nina Carducci](https://arno37.github.io/nina-carducci/)
 
