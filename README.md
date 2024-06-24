@@ -13,7 +13,7 @@ Date: mars 2024
 
 ## Accès au Site
 
-Le site peut être consulté à l'adresse suivante : [![Logo de Nina Carducci](images/camera_20.webp)](https://arno37.github.io/nina-carducci/)
+Le site peut être consulté à l'adresse suivante : [Nina Carducci](https://arno37.github.io/nina-carducci/)
 
 ## Détails des Actions
 
