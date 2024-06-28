@@ -1,8 +1,10 @@
 # OPTIMISATION SITE NINA CARDUCCI
-
-![](screencapture-nina-carducci-github-io-2024-06-28-16_28_44.png)
 Auteur: A. RAMBOURG  
 Date: mars 2024
+
+## Accès au Site
+
+Le site peut être consulté à l'adresse suivante : [Nina Carducci](https://arno37.github.io/nina-carducci/)
 
 ## Objectifs
 
@@ -11,12 +13,6 @@ Date: mars 2024
 - Ajouter les metas pour les réseaux sociaux
 - Faire les modifications liées à l’accessibilité du site
 - Produire un rapport d’optimisation présentant toutes vos actions et leur impact
-
-## Accès au Site
-
-Le site peut être consulté à l'adresse suivante : [Nina Carducci](https://arno37.github.io/nina-carducci/)
-
-## Détails des Actions
 
 ### Optimisation des Performances
 
