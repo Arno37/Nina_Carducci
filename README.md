@@ -1,5 +1,6 @@
 # OPTIMISATION SITE NINA CARDUCCI
 
+![Capture d'écran GitHub](screencapture-nina-carducci-github-io-2024-06-28-16_28_44.png)
 Auteur: A. RAMBOURG  
 Date: mars 2024
 
