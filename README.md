@@ -14,22 +14,22 @@ The site can be accessed at the following address: [Nina Carducci](https://arno3
 - Make accessibility-related modifications to the site
 - Produce an optimization report detailing all actions taken and their impact
 
-### Performance Optimization
+## Performance Optimization
 
 - Minification of CSS and JavaScript files: Reduce file sizes to speed up loading times.
 - Image compression: Use optimized image formats and compression to reduce loading times.
 - Caching: Implement caching techniques to improve page loading speed.
 
-### SEO and local SEO
+## SEO and local SEO
 
 - Meta descriptions and title tags: Add and optimize metadata to improve search engine rankings.
 - Schema.org: Use Schema.org for local SEO to provide structured information to search engines.
 
-### Social Network
+## Social Network
 
 Open Graph and Twitter Card meta tags: Add metadata to improve the appearance of shared links on social networks.
 
-### Accessibility
+## Accessibility
 
 - ARIA tags: Add ARIA tags to improve site accessibility for users of assistive technologies.
 - Color contrast: Adjust colors to meet contrast standards and ensure readability.
