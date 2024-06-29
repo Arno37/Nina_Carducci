@@ -38,3 +38,11 @@ Open Graph and Twitter Card meta tags: Add metadata to improve the appearance of
 
 A detailed report is produced, presenting all actions taken and their impact on the site's performance and SEO.
 
+## Contribution
+
+Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License.
+
