@@ -31,8 +31,8 @@ Open Graph and Twitter Card meta tags: Add metadata to improve the appearance of
 
 ### Accessibility
 
-- **ARIA tags: Add ARIA tags to improve site accessibility for users of assistive technologies.
-- **Color contrast: Adjust colors to meet contrast standards and ensure readability.
+- ARIA tags: Add ARIA tags to improve site accessibility for users of assistive technologies.
+- Color contrast: Adjust colors to meet contrast standards and ensure readability.
 
 ## Optimization Report
 
