@@ -2,39 +2,39 @@
 Auteur: A. RAMBOURG  
 Date: mars 2024
 
-## Accès au Site
+## Site Access
 
-Le site peut être consulté à l'adresse suivante : [Nina Carducci](https://arno37.github.io/Nina_Carducci/) 
+The site can be accessed at the following address: [Nina Carducci](https://arno37.github.io/Nina_Carducci/) 
 
-## Objectifs
+## Objectives
 
-- Faire une optimisation globale du site, tant sur les performances que sur le SEO
-- Mettre en place le référencement local en utilisant Schema.org
-- Ajouter les metas pour les réseaux sociaux
-- Faire les modifications liées à l’accessibilité du site
-- Produire un rapport d’optimisation présentant toutes vos actions et leur impact
+- Perform a global optimization of the site, both in terms of performance and SEO
+- Implement local SEO using Schema.org
+- Add meta tags for social networks
+- Make accessibility-related modifications to the site
+- Produce an optimization report detailing all actions taken and their impact
 
-### Optimisation des Performances
+### Performance Optimization
 
-- **Minification des fichiers CSS et JavaScript** : Réduction de la taille des fichiers pour accélérer le temps de chargement.
-- **Compression des images** : Utilisation de formats d'image optimisés et de compression pour réduire le temps de chargement.
-- **Mise en cache** : Implémentation de techniques de mise en cache pour améliorer la vitesse de chargement des pages.
+- Minification of CSS and JavaScript files: Reduce file sizes to speed up loading times.
+- Image compression: Use optimized image formats and compression to reduce loading times.
+- Caching: Implement caching techniques to improve page loading speed.
 
-### SEO et Référencement Local
+### SEO and local SEO
 
-- **Méta descriptions et balises titre** : Ajout et optimisation des métadonnées pour améliorer le classement dans les moteurs de recherche.
-- **Schema.org** : Utilisation de Schema.org pour le référencement local afin de fournir des informations structurées aux moteurs de recherche.
+- Meta descriptions and title tags: Add and optimize metadata to improve search engine rankings.
+- Schema.org: Use Schema.org for local SEO to provide structured information to search engines.
 
-### Réseaux Sociaux
+### Social Network
 
-- **Metas pour Open Graph et Twitter Cards** : Ajout de métadonnées pour améliorer l'apparence des liens partagés sur les réseaux sociaux.
+Open Graph and Twitter Card meta tags: Add metadata to improve the appearance of shared links on social networks.
 
-### Accessibilité
+### Accessibility
 
-- **Balises ARIA** : Ajout de balises ARIA pour améliorer l'accessibilité du site pour les utilisateurs de technologies d'assistance.
-- **Contraste des couleurs** : Ajustement des couleurs pour respecter les normes de contraste et garantir la lisibilité.
+- **ARIA tags: Add ARIA tags to improve site accessibility for users of assistive technologies.
+- **Color contrast: Adjust colors to meet contrast standards and ensure readability.
 
-## Rapport d'Optimisation
+## Optimization Report
 
-Un rapport détaillé est produit, présentant toutes les actions menées et leur impact sur les performances et le SEO du site.
+A detailed report is produced, presenting all actions taken and their impact on the site's performance and SEO.
 
