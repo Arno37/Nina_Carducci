@@ -2,9 +2,9 @@
 Auteur: A. RAMBOURG  
 Date: mars 2024
 
-## Site Access + "Optimization report with Lighthouse"
+## Site Access + Optimization report with Lighthouse
 
-[**Site Access**](https://arno37.github.io/Nina_Carducci/) 
+[**Site Access**](https://arno37.github.io/Nina_Carducci/)<br><br>
 [**Optimization report with Lighthouse**](https://github.com/Arno37/Nina_Carducci/blob/main/Rambourg_Arnaud_2_audit_lighthouse_19%3A04%3A2024.pdf)
 
 ## Objectives
