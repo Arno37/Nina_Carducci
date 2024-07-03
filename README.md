@@ -4,7 +4,7 @@ Date: mars 2024
 
 ## Site Access
 
-The site can be accessed at the following address: [Nina Carducci](https://arno37.github.io/Nina_Carducci/) 
+To access my site, click [here](https://arno37.github.io/Nina_Carducci/) 
 
 ## Objectives
 
