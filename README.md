@@ -1,6 +1,4 @@
-# OPTIMISATION DU SITE NINA CARDUCCI
-Auteur: A. RAMBOURG  
-Date: mars 2024
+**OPTIMISATION DU SITE NINA CARDUCCI**
 
 ## Site Access + Optimization report with Lighthouse
 
